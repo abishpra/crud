@@ -51,5 +51,6 @@
             <a href="{{route('user.index')}}" class="btn btn-primary">Home</a>
         </div>
     </div>
-    {!! Form::close() !!}
+    
+    {!! Form::close() !!} 
 @endsection
